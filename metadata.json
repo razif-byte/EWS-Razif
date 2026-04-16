@@ -1,0 +1,6 @@
+{
+  "name": "Gemini API Starter",
+  "description": "A starter application demonstrating how to set up and make requests to the Gemini API using @google/genai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
